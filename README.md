@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Lorena Mejia 👋
 
-<!--
-**lorenamejiax/lorenamejiax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m building creative AI and web projects focused on visual organization, practical tools, and better user experiences.
 
-Here are some ideas to get you started:
+## 💅 Featured Project: Set
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Set** is a soft, Pinterest-style nail inspiration app for finding, saving, organizing, and combining nail design ideas before an appointment.
+
+It helps users browse nail designs, save favorites to boards, choose multiple saved designs when they feel indecisive, and generate a custom nail set from saved inspiration pictures.
+
+[View the Set repository](https://github.com/lorenamejiax/Set)
+
+## What Set Does
+
+- Browse nail designs in a visual gallery
+- Filter by color, shape, and length
+- Save favorite designs to boards
+- Choose multiple saved designs when indecisive
+- Generate a custom nail set from saved inspiration pictures
+- Create a cleaner “show my nail tech” idea for appointments
+
+## Currently Learning
+
+- JavaScript
+- Web development
+- AI tools
+- Product design
+- GitHub project presentation
+
+## Projects
+
+### Set
+A nail inspiration web app that turns scattered nail screenshots into a clear, appointment-ready design plan.
+
+### AI Creative Projects
+Ongoing experiments in AI-generated visuals, video concepts, prompt design, and creative workflow testing.
