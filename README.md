@@ -68,3 +68,33 @@ These projects focus on evaluating AI output quality, improving prompt structure
 I’m focused on growing into roles involving AI training, AI evaluation, front-end development, product support, QA testing, technical documentation, and creative technology.
 
 I’m building public projects to show how I think, how I solve problems, and how I turn ideas into working tools.
+---
+
+## ☕ Featured Project: Coffee Menu
+
+Coffee Menu is a modern cafe ordering menu with a dark aesthetic, matcha drinks, product cards, search, and a simple cart experience.
+
+It was built as a front-end project using HTML, CSS, and JavaScript, with a focus on clean product presentation and interactive ordering flow.
+
+[View the live Coffee Menu](https://lorenamejiax.github.io/coffee-menu/)  
+[View the repository](https://github.com/lorenamejiax/coffee-menu)
+
+### Preview
+
+![Coffee Menu Preview](coffee-menu-preview.png)
+
+### What Coffee Menu Does
+
+- Browse matcha and coffee drinks
+- Search menu items
+- Add drinks to cart
+- View order total
+- Clear cart or checkout
+- Display product cards with cafe-style visuals
+
+### Built With
+
+- HTML
+- CSS
+- JavaScript
+- GitHub Pages
